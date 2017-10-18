@@ -1,0 +1,31 @@
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+
+}
+
+.down{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+}
